@@ -20,18 +20,7 @@ A full-stack Assignment Portal where teachers can create, publish, and track ass
 - Axios (API Calls)
 - SweetAlert2 & React-Toastify (Notifications)
 
-### Backend
-- Node.js & Express
-- TypeScript
-- MongoDB & Mongoose
-- JWT (Authentication)
-- Yup (Validation)
-
----
-
 ## 📋 Prerequisites
-- **Node.js** (v16 or higher)
-- **MongoDB** (Local instance or Atlas URI)
 - **npm** or **yarn**
 
 ---
